@@ -5,3 +5,7 @@ current_line=0×0;0x565a5b;true;false
 # 2 pixel wide aluminium cursor indicator
 caret=0xd3d7cf;;false;
 caret_width=2
+
+# darker aluminum indentation indicator
+indent_guide=0x000000;0x888a85;
+
