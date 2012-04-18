@@ -1,3 +1,7 @@
 [styling]
 default=0xeeeeec;0x2e3436;false;false
 current_line=0×0;0x565a5b;true;false
+
+# 2 pixel wide aluminium cursor indicator
+caret=0xd3d7cf;;false;
+caret_width=2
