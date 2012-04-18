@@ -20,7 +20,7 @@ decorator=0xad7fa8;0x2e3436;false;false
 
 [keywords]
 # all items must be in one line
-primary=and as assert break class continue def del elif else except exec finally for from global if import in is lambda not or pass print raise return try while with yield False None True
+primary=and as assert break class continue def del elif else except exec finally for from global if import in is lambda not or pass print raise return try while with yield False None True self
 # additional keywords, will be highlighted with style "word2"
 identifiers=
 
