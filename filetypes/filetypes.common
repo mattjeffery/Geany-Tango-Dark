@@ -1,6 +1,6 @@
 [styling]
 default=0xeeeeec;0x2e3436;false;false
-current_line=0×0;0x565a5b;true;false
+current_line=;0x555753;true;false
 
 # 2 pixel wide aluminium cursor indicator
 caret=0xd3d7cf;;false;
@@ -8,4 +8,6 @@ caret_width=2
 
 # darker aluminum indentation indicator
 indent_guide=0x000000;0x888a85;
+white_space=0x888a85;;true;false
 
+selection=;0x5c3566;false;true
