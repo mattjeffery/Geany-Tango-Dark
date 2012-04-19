@@ -15,14 +15,14 @@ operator=0xfcaf3e;0x2e3436;false;false
 identifier=0xeeeeec;0x2e3436;false;false
 commentblock=0x888a85;0x2e3436;false;false
 stringeol=0x73d216;0x2e3436;false;false
-word2=0xeeeeec;0x2e3436;true;false
+word2=0xedd400;0x2e3436;true;false
 decorator=0xad7fa8;0x2e3436;false;false
 
 [keywords]
 # all items must be in one line
 primary=and as assert break class continue def del elif else except exec finally for from global if import in is lambda not or pass print raise return try while with yield False None True self
 # additional keywords, will be highlighted with style "word2"
-identifiers=
+identifiers=basestring isinstance string int dict super __name__
 
 
 [settings]
